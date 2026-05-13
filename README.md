@@ -20,6 +20,9 @@ This project focuses on DOM manipulation, dynamic grid generation and user inter
 - CSS
 - JavaScript
 
+## Live preview
+https://bachatron.github.io/etch-a-sketch/
+
 ## Installation
 
 Clone the repository:
