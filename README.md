@@ -52,7 +52,9 @@ Open `index.html` in your browser.
 
 ## Screenshot
 
-![App Screenshot](screenshots/etchsketch.png)
+<p align="center">
+  <img src="screenshots/etchsketch.png" width="700">
+</p>
 
 ## Author
 
