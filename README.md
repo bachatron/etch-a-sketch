@@ -50,6 +50,10 @@ Open `index.html` in your browser.
 - Drawing modes
 - Improved mobile experience
 
+## Screenshot
+
+![App Screenshot](screenshots/etchsketch.png)
+
 ## Author
 
 bachatron
