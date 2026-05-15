@@ -53,7 +53,7 @@ Open `index.html` in your browser.
 ## Screenshot
 
 <p align="center">
-  <img src="screenshots/etchsketch.png" width="700">
+  <img src="screenshots/etchsketch.png" width="600">
 </p>
 
 ## Author
